@@ -1,2 +1,2 @@
 # CousreTerraform
-A repository for display my learning in Terraform IaC
+A repository to display my learning in Terraform IaC
